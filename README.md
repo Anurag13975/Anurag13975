@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Singhal</h1>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Programmer;I'm+a+Web+Developer;" />
+</p>
 <h3 align="center">Motivated Fresher Eager to Launch a Career in Software and Web Development.</h3>
 
 <h3 align="left">Connect with me:</h3>
