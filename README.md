@@ -12,12 +12,9 @@
     <a href="https://www.linkedin.com/in/anurag-singhal-b246b0245/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>   
-    </a>  
-    <a href="https://www.instagram.com/_anurag0singhal_/" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=orange" alt="example"/>
-        </a>
+    </a>
     </p>
-    <p >A Final Year Undergraduate at MNIT Jaipur who is a passionate Programmer , Full Stack Web Developer.</p>
+    <p><b>Software Developer @ HT Digital Streams.</b></p>
     <h2>Tech Stack</h2>
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
     <p align="center">
