@@ -98,7 +98,7 @@
 
 ### 📫 Let's Connect
 - 🌐 [Portfolio](https://portfolio-anurag13975.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/anurag-singhal-b246b0245/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anurag0singhal/)
 - 📧 [Gmail](mailto:anuragsinghal6072@gmail.com)
 
 ---
