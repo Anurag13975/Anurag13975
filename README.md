@@ -11,7 +11,7 @@
   <a href="mailto:anuragsinghal6072@gmail.com?subject=Feedback%20From%20GitHub&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/anurag-singhal-b246b0245/" target="_blank">
+  <a href="https://www.linkedin.com/in/anurag0singhal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
